@@ -1,4 +1,12 @@
-### Hi there 👋
+# Hello and welcome!
+
+I'm Daniel Dafoe, an inclusive web designer and developer from Earth. I've worked as a quality assurance tester, front-end developer, and a designer. Creating web experiences everyone can use is dearly important to me.
+
+- 🔭 I’m currently working on a React + Next.js application very similar to https://lawsofux.com, but for software design patterns.
+- 📚 I’m currently studying English, Linguistics, and Philosophy part-time at the University of Toronto.
+- 🌱 I’m currently learning American Sign Language.
+- ⚡ Fun fact: I've sold nearly 500 items on Redbubble.
+- 😄 Pronouns: He/him
 
 <!--
 **danieldafoe/danieldafoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
