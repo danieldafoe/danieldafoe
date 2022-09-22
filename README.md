@@ -1,12 +1,12 @@
-# Hello and welcome!
+# Welcome, traveller!
 
-I'm Daniel Dafoe, an inclusive web designer and developer from Earth. I've worked as a quality assurance tester, front-end developer, and a designer. Creating web experiences everyone can use is dearly important to me.
+I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a quality assurance tester, front-end developer, technical lead, design technologist, and an instructor. Creating web experiences everyone can use is _dearly_ important to me.
 
-- 🔭 I’m currently setting up a Gatsby blog as a place to write about a signifcant life change coming soon.
-- 📚 I’m currently studying Linguistics, Philosophy, and English part-time at the University of Toronto.
-- 🌱 I’m currently learning American Sign Language. I know over 100 words and phrases.
+- 🌻 I’m currently building a React Native app with @kirahsapong to help plant-based eaters find food faster.
+- 🧠 I’m currently learning American Sign Language. I know over 100 words and phrases.
+- 👯‍♀️ I'm interested in collaborating on open source projects needing CSS or accessibility expertise.
 - ⚡ Fun fact: I've sold nearly 500 items on Redbubble.
-- 😄 Pronouns: He/him
+- 🙌 Pronouns: He/him
 
 <!--
 **danieldafoe/danieldafoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
