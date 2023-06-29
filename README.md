@@ -1,10 +1,10 @@
 # Welcome, traveller!
 
-I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a quality assurance tester, front-end developer, technical lead, design technologist, and an instructor. Creating web experiences everyone can use is _dearly_ important to me.
+I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a quality assurance tester, front-end engineer, technical lead, design technologist, and a profressor. Creating web experiences everyone can use is _dearly_ important to me.
 
-- 🌻 I’m currently building a React Native app with @kirahsapong to help plant-based eaters find food faster.
+- 🌻 I’m currently building a futuristic CSS library.
 - 🧠 I’m currently learning American Sign Language. I know over 100 words and phrases.
-- 👯‍♀️ I'm interested in collaborating on open source projects needing CSS or accessibility expertise.
+- 👯‍♀️ I'm interested in collaborating on open source projects needing front-end engineering expertise.
 - ⚡ Fun fact: I've sold nearly 500 items on Redbubble.
 - 🙌 Pronouns: He/him
 
