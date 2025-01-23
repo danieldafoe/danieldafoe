@@ -2,9 +2,9 @@
 
 I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a quality assurance tester, front-end engineer, technical lead, design technologist, and a profressor. Creating web experiences everyone can use is _dearly_ important to me.
 
-- 🌻 I’m currently building a futuristic CSS library.
-- 🧠 I’m currently learning American Sign Language. I know over 100 words and phrases.
-- 👯‍♀️ I'm interested in collaborating on open source projects needing front-end engineering expertise.
+- 💬 Ask me about web accessibility, linguistics, or CSS.
+- 🧠 I’m currently learning Japanese and American Sign Language.
+- 👯‍♀️ I'm interested in helping with UI and UX for open source projects.
 - ⚡ Fun fact: I've sold nearly 500 items on Redbubble.
 - 🙌 Pronouns: He/him
 
