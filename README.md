@@ -1,6 +1,8 @@
 # Welcome, traveller!
 
-I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a quality assurance tester, front-end engineer, technical lead, design technologist, and a profressor. Creating web experiences everyone can use is _dearly_ important to me.
+I'm Daniel Dafoe, an inclusive web designer and software engineer from Earth. I've worked as a web accessibility engineer, professor, design technologist, technical lead, front-end engineer, and quality assuranc tester.
+
+Creating web experiences people can use is _dearly_ important to me.
 
 - 💬 Ask me about web accessibility, linguistics, or CSS.
 - 🧠 I’m currently learning Japanese and American Sign Language.
